@@ -1,3 +1,21 @@
+# Quick Start
+
+## Frontend
+
+1. Run `yarn`
+2. Run `yarn start`
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Backend
+
+1. Run `node server.js` in separate terminal
+
+## Tests
+
+1. Run `yarn test`
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
